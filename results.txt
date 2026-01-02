@@ -1,0 +1,6 @@
+[yellow][WARN][/yellow] Line 1: Function 'addnumbers' should be in camelCase format
+[yellow][WARN][/yellow] Line 4: Function 'dividenumbers' should be in camelCase format
+[yellow][WARN][/yellow] Line 7: Function 'MultiplyNumbers' should be in camelCase format
+[yellow][WARN][/yellow] Line 10: Avoid using print() in production code
+[yellow][WARN][/yellow] Line 11: Avoid using print() in production code
+[yellow][WARN][/yellow] Line 12: Avoid using print() in production code
